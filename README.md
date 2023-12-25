@@ -2,7 +2,7 @@
 ```
 npm install
 
-## Run app
+## run app
 ```
 npm run start
 ```
